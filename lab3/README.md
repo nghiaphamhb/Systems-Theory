@@ -1,6 +1,6 @@
 # Синтез управляющего конечного автомата (Finite State Machine)
 
-<img src="../asserts/lab1.png" alt="Systems-theory" width="100%" height="200px">
+<img src="../asserts/lab1.gif" alt="Systems-theory" width="100%" height="200px">
 
 ## Описание задачи
 
